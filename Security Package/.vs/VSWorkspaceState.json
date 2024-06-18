@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\startupcode",
+    "\\startupcode\\securitylibrary",
+    "\\startupcode\\securitylibrary\\AES",
+    "\\startupcode\\securitylibrary\\DES",
+    "\\startupcode\\securitylibrary\\MainAlgorithms",
+    "\\startupcode\\securitypackagetest"
+  ],
+  "SelectedNode": "\\startupcode\\securitylibrary\\DES\\DES.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Programming\\Security Tasks\\Milestone_5\\Security Package\\startupcode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|a:\\programming\\security tasks\\milestone_5\\security package\\startupcode\\securitylibrary\\elgamal\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\elgamal\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ELGAMAL.cs",
+              "DocumentMoniker": "A:\\Programming\\Security Tasks\\Milestone_5\\Security Package\\startupcode\\securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "ToolTip": "A:\\Programming\\Security Tasks\\Milestone_5\\Security Package\\startupcode\\securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "RelativeToolTip": "securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:21:05.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

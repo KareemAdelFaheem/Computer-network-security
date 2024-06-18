@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Security Package",
+    "\\Security Package\\startupcode",
+    "\\Security Package\\startupcode\\securitylibrary",
+    "\\Security Package\\startupcode\\securitylibrary\\RSA"
+  ],
+  "SelectedNode": "\\Security Package\\startupcode\\securitylibrary\\RSA\\RSA.cs",
+  "PreviewInSolutionExplorer": false
+}
